@@ -17,11 +17,3 @@ Welcome to the AI Choose Your Own Adventure Game! This project combines interact
 ### Prerequisites
 
 To run this project, you need to have [Python](https://www.python.org/) installed.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Andrew-Tsegaye/AI-Choose-Your-Own-Adventure-Game.git
-  ```
